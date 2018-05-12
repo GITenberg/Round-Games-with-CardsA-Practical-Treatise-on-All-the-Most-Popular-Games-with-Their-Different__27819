@@ -1,0 +1,31 @@
+_repo: Round-Games-with-CardsA-Practical-Treatise-on-All-the-Most-Popular-Games-with-Their-Different__27819
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peel, W. H.
+    alias: Baxter-Wray
+    gutenberg_agent_id: '32927'
+    url: http://www.gutenberg.org/2009/agents/32927
+description: ''
+gutenberg_issued: '2009-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Card games'
+tableOfContents: '"Nap," or "Napoleon" -- Loo -- Poker -- Vingt-Un -- Commerce --
+  Speculation -- Pope Joan -- Spin -- Newmarket -- Snip-Snap-Snorum -- Jig -- Cassino
+  -- My Bird Sings -- Spoil Five -- Loto.'
+title: 'Round Games with Cards
+
+  A Practical Treatise on All the Most Popular Games, with Their Different Variations,
+  and Hints for Their Practice'
+url: http://www.gutenberg.org/ebooks/27819
