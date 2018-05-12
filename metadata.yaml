@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32927'
     url: http://www.gutenberg.org/2009/agents/32927
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27819#Round-Games-with-CardsA-Practical-Treatise-on-All-the-Most-Popular-Games-with-Their-Different_
 gutenberg_issued: '2009-01-16'
 gutenberg_type: Text
 identifiers:
